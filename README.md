@@ -1,3 +1,4 @@
+<h3 align="center"> Hey 👋, I'm Nícolas Lopes, welcome to my profile.<h3>
 <h2 align="center">
 
 </h2>
@@ -19,6 +20,6 @@
 <h3 align="left">Skills:</h3>
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,php,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,html,css,js,tailwind,bootstrap" />
   </a>
 </div>
