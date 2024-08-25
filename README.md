@@ -20,6 +20,6 @@
 <h3 align="left">Skills:</h3>
 <div>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,html,css,js,tailwind,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,mysql,bootstrap,tailwind,html,css,js" />
   </a>
 </div>
