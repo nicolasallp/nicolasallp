@@ -19,6 +19,6 @@
 <h3 align="left">Skills:</h3>
 <div>
   <a href="https://go-skill-icons.vercel.app/">
-     <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,sqlserver,mysql,html,tailwind,js"/>
+     <img src="https://go-skill-icons.vercel.app/api/icons?i=cs,dotnet,python,sqlserver,mysql,html,tailwind,js"/>
   </a>
 </div>
