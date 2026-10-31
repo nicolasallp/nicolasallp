@@ -2,9 +2,10 @@
   
 ##
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/nicolasallp">
-  <img height="180em" width="fit-content" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nicolasallp&layout=compact&langs_count=11&theme=dracula&title_color=01ecf3&bg_color=00000000"/>
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=nicolasallp&layout=compact&langs_count=11&theme=dracula&title_color=01ecf3&bg_color=00000000" />
+  </a>
 </div>
 
 ##
